@@ -1,2 +1,6 @@
-# my_portfolio
-Describes all my data science experience
+# Portfolio by AmirHossein Imani
+# Kaggle Competitions
+# Computer Vision
+# NLP
+# Recommenders
+# Book List
