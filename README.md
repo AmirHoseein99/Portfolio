@@ -21,6 +21,10 @@ All of these projects are in Python. Links are provided to project's notebook
     - data Visualizations
     - Tabular Data
     - ML
+## Visualization
+- [Human Resources Visualization](https://github.com/AmirHoseein99/Human_Resources_visualization/blob/master/Human_Resources_Data_Set.ipynb)
+    -  simple Tabular dataset
+    -  Pandas and Seaborn
 ## NLP
 - [ADsRecommendation](https://github.com/AmirHoseein99/ADsRecommendation/blob/master/Project.ipynb)
     - recommend Ads for Web pages based on the content of the pages
