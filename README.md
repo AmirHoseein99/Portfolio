@@ -1,6 +1,6 @@
 # Portfolio by AmirHossein Imani
 This repository is to act like a high level overview of the data science projects I've worked on.
-I'l provide a short description here for each project for  short convenience
+I'l provide a short description here for each project for convenience
 All of these projects are in Python. Links are provided to project's notebook
 
 ## Kaggle Competitions and Datasets
