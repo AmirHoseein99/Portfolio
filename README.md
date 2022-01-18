@@ -4,22 +4,22 @@ I'l provide a short description here for each project for  short convenience
 All of these projects are in Python. Links are provided to project's notebook
 
 ## Kaggle Competitions and Datasets
-- [Traffic Sign Recognition] (https://github.com/AmirHoseein99/project_and_challenges/blob/master/Recognition_of_traffic_signs_.ipynb)
+- [Traffic Sign Recognition](https://github.com/AmirHoseein99/project_and_challenges/blob/master/Recognition_of_traffic_signs_.ipynb)
     - Determine the traffic sign type from an image.
     - custom data Augmentation
     - Transfer Learning
--  [Pawpularity Contest] (https://github.com/AmirHoseein99/project_and_challenges/blob/master/Pawpularity_Contest.ipynb)
+-  [Pawpularity Contest](https://github.com/AmirHoseein99/project_and_challenges/blob/master/Pawpularity_Contest.ipynb)
     - Predict the popularity of shelter pet photos
     - Functional API
 - [Music Genre Classification](https://github.com/AmirHoseein99/project_and_challenges/blob/master/MusicGenreClassification.ipynb)
-    -Rnn
+    - Rnn
     - NLP
 - [Parkinson Disease Detection](https://github.com/AmirHoseein99/project_and_challenges/blob/master/ParkinsonDataset.ipynb)
-    -Tabular Data
+    - Tabular Data
     - ML
 - MarketingCampaign (https://github.com/AmirHoseein99/project_and_challenges/blob/master/MarketingCampaign.ipynb)
     - data Visualizations
-    -Tabular Data
+    - Tabular Data
     - ML
 ## NLP
 - [ADsRecommendation](https://github.com/AmirHoseein99/ADsRecommendation/blob/master/Project.ipynb)
