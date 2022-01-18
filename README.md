@@ -35,7 +35,8 @@ All of these projects are in Python. Links are provided to project's notebook
     - model based 
 ## Computer Vision
 
-
+## Audio
+    - coming next, based on my Bachelor degree Project
 ## Book List
 - Bruce P. Practical Statistics for Data Scientists...Using R and Python2ed
 - Hands On Machine Learning with sklearn, keras, tenserflow by Aurélien Géron
