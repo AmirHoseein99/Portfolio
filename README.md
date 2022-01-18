@@ -33,10 +33,8 @@ All of these projects are in Python. Links are provided to project's notebook
 
 ## Recommenders
 - [Basic Movie Recommendation System](https://github.com/AmirHoseein99/Movie_Recommendation_system/blob/master/Movie_Recommender_Systems.ipynb)
-    - content based
-    - collaborative
-    - memory based
-    - model based 
+    - content based, collaborative
+    - memory based, model based 
 ## Computer Vision
 
 ## Audio
