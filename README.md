@@ -38,7 +38,7 @@ All of these projects are in Python. Links are provided to project's notebook
 ## Computer Vision
 
 ## Audio
-   ### [Depression-Engine] (https://github.com/AmirHoseein99/Depression-Engine)
+   ### [Depression-Engine](https://github.com/AmirHoseein99/Depression-Engine)
    - Depression Detection Based on Speech activity
    ### SAD(Speech Activity Detection)
    - MFFCs and their deltas
