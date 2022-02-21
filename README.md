@@ -40,10 +40,10 @@ All of these projects are in Python. Links are provided to project's notebook
 ## Audio
    ### [Depression-Engine](https://github.com/AmirHoseein99/Depression-Engine)
    - Depression Detection Based on Speech activity
-   ### SAD(Speech Activity Detection)
+   ##### SAD(Speech Activity Detection)
    - MFFCs and their deltas
    - hybrid model using both CNN and GRUs
-   ### Depression Detection
+   ##### Depression Detection
    
 
     
