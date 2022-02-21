@@ -38,7 +38,13 @@ All of these projects are in Python. Links are provided to project's notebook
 ## Computer Vision
 
 ## Audio
-    - coming next, based on my Bachelor degree Project
+    ### Depression-Engine
+        - Depression Detection Based on Speech activity
+    ### SAD(Speech Activity Detection)
+        - MFFCs and their deltas
+        - hybrid model using both CNN and GRUs
+   ### Depression Detection
+    
 ## Book List
 - Bruce P. Practical Statistics for Data Scientists...Using R and Python2ed
 - Hands On Machine Learning with sklearn, keras, tenserflow by Aurélien Géron
