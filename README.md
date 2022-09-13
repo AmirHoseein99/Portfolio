@@ -36,6 +36,8 @@ All of these projects are in Python. Links are provided to project's notebook
     - content based, collaborative
     - memory based, model based 
 ## Computer Vision
+   ### [Custom_yolo3_object_Detection](https://github.com/AmirHoseein99/Custom_yolo)
+   - i just trained a yolo3 model on my custom dataset
 
 ## Audio
    ### [Depression-Engine](https://github.com/AmirHoseein99/Depression-Engine)
@@ -44,7 +46,8 @@ All of these projects are in Python. Links are provided to project's notebook
    - MFFCs and their deltas
    - hybrid model using both CNN and GRUs
    ##### Depression Detection
-   
+   ### [Persian_ASR](https://github.com/AmirHoseein99/Persian_ASR)
+   - Used Nvidia Nemo's QuartzNet on Persian Dataset
 
     
 ## Book List
