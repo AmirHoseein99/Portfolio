@@ -30,7 +30,10 @@ All of these projects are in Python. Links are provided to project's notebook
     - recommend Ads for Web pages based on the content of the pages
     - Dimentionality Reduction
     - Nlp technique using Hazm
-
+- [CafeBazzarTask](https://github.com/AmirHoseein99/nlp_task/blob/master/NLP_Task.ipynb)
+    - classify Persian Comments as Informative and Non-Informative
+    - Multiple PreProcessing Approaches
+    - Different Models approach
 ## Recommenders
 - [Basic Movie Recommendation System](https://github.com/AmirHoseein99/Movie_Recommendation_system/blob/master/Movie_Recommender_Systems.ipynb)
     - content based, collaborative
