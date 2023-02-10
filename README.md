@@ -17,7 +17,7 @@ All of these projects are in Python. Links are provided to project's notebook
 - [Parkinson Disease Detection](https://github.com/AmirHoseein99/project_and_challenges/blob/master/ParkinsonDataset.ipynb)
     - Tabular Data
     - ML
-- MarketingCampaign (https://github.com/AmirHoseein99/project_and_challenges/blob/master/MarketingCampaign.ipynb)
+- [MarketingCampaign](https://github.com/AmirHoseein99/project_and_challenges/blob/master/MarketingCampaign.ipynb)
     - data Visualizations
     - Tabular Data
     - ML
