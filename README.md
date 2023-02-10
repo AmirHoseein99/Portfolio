@@ -10,18 +10,19 @@ All of these projects are in Python. Links are provided to project's notebook
     - Transfer Learning
 -  [Pawpularity Contest](https://github.com/AmirHoseein99/project_and_challenges/blob/master/Pawpularity_Contest.ipynb)
     - Predict the popularity of shelter pet photos
-    - Functional API
+    - Computer vision
 - [Music Genre Classification](https://github.com/AmirHoseein99/project_and_challenges/blob/master/MusicGenreClassification.ipynb)
     - Rnn
     - NLP
 - [Parkinson Disease Detection](https://github.com/AmirHoseein99/project_and_challenges/blob/master/ParkinsonDataset.ipynb)
     - Tabular Data
     - ML
+
+## Visualization
 - [MarketingCampaign](https://github.com/AmirHoseein99/project_and_challenges/blob/master/MarketingCampaign.ipynb)
     - data Visualizations
     - Tabular Data
     - ML
-## Visualization
 - [Human Resources Visualization](https://github.com/AmirHoseein99/Human_Resources_visualization/blob/master/Human_Resources_Data_Set.ipynb)
     -  simple Tabular dataset
     -  Pandas and Seaborn
