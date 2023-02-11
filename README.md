@@ -17,7 +17,6 @@ All of these projects are in Python. Links are provided to project's notebook
 - [Parkinson Disease Detection](https://github.com/AmirHoseein99/project_and_challenges/blob/master/ParkinsonDataset.ipynb)
     - Tabular Data
     - ML
-
 ## Visualization
 - [MarketingCampaign](https://github.com/AmirHoseein99/project_and_challenges/blob/master/MarketingCampaign.ipynb)
     - data Visualizations
@@ -26,6 +25,8 @@ All of these projects are in Python. Links are provided to project's notebook
 - [Human Resources Visualization](https://github.com/AmirHoseein99/Human_Resources_visualization/blob/master/Human_Resources_Data_Set.ipynb)
     -  simple Tabular dataset
     -  Pandas and Seaborn
+ - In Process
+ 
 ## NLP
 - [ADsRecommendation](https://github.com/AmirHoseein99/ADsRecommendation/blob/master/Project.ipynb)
     - recommend Ads for Web pages based on the content of the pages
@@ -35,15 +36,29 @@ All of these projects are in Python. Links are provided to project's notebook
     - classify Persian Comments as Informative and Non-Informative
     - Multiple PreProcessing Approaches
     - Different Models approach
+- [Digikala Comments]()
+    - Multilabel Persian Text Classification
+    - Persian Text Preporcessing
+    - Using Voting Classifier 
+    
 ## Recommenders
 - [Basic Movie Recommendation System](https://github.com/AmirHoseein99/Movie_Recommendation_system/blob/master/Movie_Recommender_Systems.ipynb)
     - content based, collaborative
     - memory based, model based 
+    - based on Cosine Similarity
+- [Deep Recomendation System]()
+    - using tf.keras
+    - 
+    -
+
+
 ## Computer Vision
    - [Custom_yolo3_object_Detection](https://github.com/AmirHoseein99/Custom_yolo)
         - i just trained a yolo3 model on my custom dataset
-
-## Audio
+   - [OCR]
+        - coming soon
+    
+## Audio and Signal Processing
    - [Depression-Engine](https://github.com/AmirHoseein99/Depression-Engine)
       - Depression Detection Based on Speech activity
       - SAD(Speech Activity Detection)
@@ -52,7 +67,6 @@ All of these projects are in Python. Links are provided to project's notebook
       - Depression Detection
    - [Persian_ASR](https://github.com/AmirHoseein99/Persian_ASR)
        - Nvidia Nemo's QuartzNet on Persian Dataset
-
     
 ## Book List
 - Bruce P. Practical Statistics for Data Scientists...Using R and Python2ed
