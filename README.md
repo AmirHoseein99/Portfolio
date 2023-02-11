@@ -41,7 +41,7 @@ All of these projects are in Python. Links are provided to project's notebook
     - memory based, model based 
 ## Computer Vision
    - [Custom_yolo3_object_Detection](https://github.com/AmirHoseein99/Custom_yolo)
-   - i just trained a yolo3 model on my custom dataset
+        - i just trained a yolo3 model on my custom dataset
 
 ## Audio
    - [Depression-Engine](https://github.com/AmirHoseein99/Depression-Engine)
