@@ -67,7 +67,10 @@ All of these projects are in Python. Links are provided to project's notebook
       - Depression Detection
    - [Persian_ASR](https://github.com/AmirHoseein99/Persian_ASR)
        - Nvidia Nemo's QuartzNet on Persian Dataset
-    
+## Time Series
+
+
+
 ## Book List
 - Bruce P. Practical Statistics for Data Scientists...Using R and Python2ed
 - Hands On Machine Learning with sklearn, keras, tenserflow by Aurélien Géron
