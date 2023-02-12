@@ -36,10 +36,10 @@ All of these projects are in Python. Links are provided to project's notebook
     - classify Persian Comments as Informative and Non-Informative
     - Multiple PreProcessing Approaches
     - Different Models approach
-- [Digikala Comments]()
+- [Digikala Comments](https://github.com/AmirHoseein99/DigiKala_Nlp_Challenge/blob/master/MultiLabelTextClassification.ipynb)
     - Multilabel Persian Text Classification
     - Persian Text Preporcessing
-    - Using Voting Classifier 
+    - Using Custom Ensemble Classifier 
     
 ## Recommenders
 - [Basic Movie Recommendation System](https://github.com/AmirHoseein99/Movie_Recommendation_system/blob/master/Movie_Recommender_Systems.ipynb)
