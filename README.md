@@ -28,10 +28,6 @@ All of these projects are in Python. Links are provided to project's notebook
  - In Process
  
 ## NLP
-- [ADsRecommendation](https://github.com/AmirHoseein99/ADsRecommendation/blob/master/Project.ipynb)
-    - recommend Ads for Web pages based on the content of the pages
-    - Dimentionality Reduction
-    - Nlp technique using Hazm
 - [CafeBazzarTask](https://github.com/AmirHoseein99/nlp_task/blob/master/NLP_Task.ipynb)
     - classify Persian Comments as Informative and Non-Informative
     - Multiple PreProcessing Approaches
@@ -50,14 +46,8 @@ All of these projects are in Python. Links are provided to project's notebook
     - using tf.keras
     - 
     -
-
-
+## Clustring
 ## Computer Vision
-   - [Custom_yolo3_object_Detection](https://github.com/AmirHoseein99/Custom_yolo)
-        - i just trained a yolo3 model on my custom dataset
-   - [OCR]
-        - coming soon
-    
 ## Audio and Signal Processing
    - [Depression-Engine](https://github.com/AmirHoseein99/Depression-Engine)
       - Depression Detection Based on Speech activity
@@ -67,12 +57,5 @@ All of these projects are in Python. Links are provided to project's notebook
       - Depression Detection
    - [Persian_ASR](https://github.com/AmirHoseein99/Persian_ASR)
        - Nvidia Nemo's QuartzNet on Persian Dataset
+       - 
 ## Time Series
-
-
-
-## Book List
-- Bruce P. Practical Statistics for Data Scientists...Using R and Python2ed
-- Hands On Machine Learning with sklearn, keras, tenserflow by Aurélien Géron
-- Deep Learning With Python, 2nd edition François Chollet
-    - Currently going through this book
